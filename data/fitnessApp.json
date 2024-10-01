@@ -1,0 +1,25 @@
+{
+    "exerciseDatabase": [
+        {
+            "instructions": "Do a set of 10 push-ups.",
+            "name": "Push-ups"
+        },
+        {
+            "instructions": "Run for 30 minutes at a moderate pace.",
+            "name": "Running"
+        }
+    ],
+    "workoutList": [{
+        "duration": 30,
+        "intensity": "high",
+        "exerciseType": "Running"
+    }],
+    "weightTracker": [{
+        "date": "2024-01-01",
+        "weight": 40
+    }],
+    "goals": {
+        "goalType": "",
+        "description": ""
+    }
+}

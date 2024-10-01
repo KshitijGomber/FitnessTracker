@@ -1,0 +1,19 @@
+{
+    "exerciseDatabase": [{
+        "instructions": "Do 3 sets of 10 push-ups.",
+        "name": "Push-ups"
+    }],
+    "workoutList": [{
+        "duration": 30,
+        "intensity": "Medium",
+        "exerciseType": "Running"
+    }],
+    "weightTracker": [{
+        "date": "2023-01-01",
+        "weight": 75
+    }],
+    "goals": {
+        "goalType": "Lose Weight",
+        "description": "Lose 5 kg in 2 months"
+    }
+}
